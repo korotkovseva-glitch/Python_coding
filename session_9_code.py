@@ -73,3 +73,17 @@ print ("The outcome of interest is",a)
 a = 4
 print ("The outcome of interest is",a)
 # print ('The first outcome of interest is %.2f', a)
+
+#continiuning
+print ('Hello, my name is %s. I am on year MA %f of my MA program.This is Coding for Economists session %d.' % ('Seva',2, 10))
+print ('Hello, my name is %s. I am on year MA %s of my MA program.This is Coding for Economists session %d.' % ('Seva','2', 10))
+
+name = 'Seva'
+session_number=10
+print(f'My name is {name}. Today\'s coding session is {session_number}.')
+
+print ('{} divided by {} is {}.'.format(2000,1500,2000/1500))
+print ('{:,d} divided by {:,.0f} is {:.2f}.'.format(2000,1500,2000/1500))
+
+print(type(a))
+print(type(a).__name__)
