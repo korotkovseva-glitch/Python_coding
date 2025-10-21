@@ -125,23 +125,25 @@ from math import *
 
 print(cos(pi))
 
-#from numpy import ceil, floor
-#print(ceil(5.5))
-#print(floor(5.5))
+import numpy
 
-#import pandas as pd
-#import numpy as np
+from numpy import ceil, floor
+print(ceil(5.5))
+print(floor(5.5))
 
-#np.pi
+import pandas as pd
+import numpy as np
 
-#data=[1,2,3,4]
-#series=pd.Series(data)
-#print(data)
-#print(series)
+np.pi
 
-#import os
-#current_directory=os.getcwd()
-#print (current_directory)
-#files=os.listdir(current_directory)
-#print(files)
-#print(type(files))
+data=[1,2,3,4]
+series=pd.Series(data)
+print(data)
+print(series)
+
+import os
+current_directory=os.getcwd()
+print (current_directory)
+files=os.listdir(current_directory)
+print(files)
+print(type(files))
