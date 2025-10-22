@@ -47,7 +47,7 @@ print(len(l[0]))
 
 #removing elements
 l.remove("apple")
-print (l)
+print (l) 
 
 del l[0]
 print (l)
