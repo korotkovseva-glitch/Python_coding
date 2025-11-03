@@ -26,9 +26,13 @@ for column in column_list: # Checking the raw data by each column
 #print (raw_data.rating_reviewcount)
 #print(raw_data['rating_reviewcount'].describe())
 
-print(raw_data['city_actual'].unique()) # checking another uniqe variables (4) instead of Vienna
-print (raw_data['city_actual'].value_counts()) # We see that there are an aglomerations in data set. For this exervice, they will be exluded
+print(raw_data["city_actual"].unique()) # checking another uniqe variables (4) instead of Vienna
+print (raw_data["city_actual"].value_counts()) # We see that there are an aglomerations in data set. For this exervice, they will be exluded
 
-df_city_actual=raw_data[raw_data["city_actual"].str.lower().str.strip()=="vienna"] # filtering only accomodations in Vienna
-print(df_city_actual["city_actual"].value_counts()) 
+df_1=raw_data[raw_data["city_actual"].str.lower().str.strip()=="vienna"] # filtering only accomodations in Vienna
+print(df_1["city_actual"].value_counts()) 
 
+print (raw_data["center1distance"].value_counts())
+
+df_2=(df_1["center1distance"].str.extract(r'(\d+\.?\d*)')[0].astype(float))
+print (df_2["center1distance"].describe())
