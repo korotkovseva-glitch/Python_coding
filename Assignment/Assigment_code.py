@@ -29,10 +29,24 @@ for column in column_list: # Checking the raw data by each column
 print(raw_data["city_actual"].unique()) # checking another uniqe variables (4) instead of Vienna
 print (raw_data["city_actual"].value_counts()) # We see that there are an aglomerations in data set. For this exervice, they will be exluded
 
-df_1=raw_data[raw_data["city_actual"].str.lower().str.strip()=="vienna"] # filtering only accomodations in Vienna
-print(df_1["city_actual"].value_counts()) 
+df_0=raw_data.loc[raw_data["city_actual"].str.lower().str.strip()=="vienna"].copy() # filtering only accomodations in Vienna
+print(df_0["city_actual"].value_counts()) # checking that everything works
 
-print (raw_data["center1distance"].value_counts())
+print (raw_data["center1distance"].value_counts()) # checking the situation with miles as a text
 
-df_2=(df_1["center1distance"].str.extract(r'(\d+\.?\d*)')[0].astype(float))
-print (df_2["center1distance"].describe())
+miles_to_clean=["center1distance","center2distance"]
+
+for col in miles_to_clean:
+    miles=(df_0[col].astype(str)
+           .str.extract(r'(\d+\.?\d*)')[0]
+           .str.replace(',', '.', regex=False)
+           ) # removing the miles as a text in two collumns
+    df_0.loc[:,col]=pd.to_numeric(miles,errors="coerce") #rewriting the changes of the data set
+
+print(df_0[miles_to_clean].head(10))  # checking that everything works
+print(df_0[miles_to_clean].describe()) # checking that everything works
+print(df_0) # checking that everything works
+print (df_0["city_actual"].value_counts()) # checking that everything works
+
+neigh_h=
+
