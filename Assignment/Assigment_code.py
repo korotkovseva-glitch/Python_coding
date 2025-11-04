@@ -40,6 +40,7 @@ for col in miles_to_clean:
     miles=(df_0[col].astype(str)
            .str.extract(r'(\d+\.?\d*)')[0]
            .str.replace(',', '.', regex=False)
+           .str.strip()
            ) # removing the miles as a text in two collumns
     df_0.loc[:,col]=pd.to_numeric(miles,errors="coerce") #rewriting the changes of the data set
 
@@ -48,5 +49,41 @@ print(df_0[miles_to_clean].describe()) # checking that everything works
 print(df_0) # checking that everything works
 print (df_0["city_actual"].value_counts()) # checking that everything works
 
-neigh_h=
+print(df_0["neighbourhood"].value_counts()) #checking the neigbourhood. But after comparison with the clean version in OSF it was maded decision to stay it as it is (e.g. "17.  Hernals", or "Vienna")
+
+df_0["accommodationtype"]=( #cleaning accomodationtype column. we need only type of accomodation without "Accomodationtype@" text
+    df_0["accommodationtype"]
+    .astype(str)
+    .str.split("@")
+    .str[-1]
+    .str.strip()
+)
+
+print (df_0) #checking if everything works
+print(df_0["accommodationtype"].value_counts()) #checking updates in exact column
+
+
+df_0["guestreviewsrating"]=( #cleaning accomodationtype column. we need only reviews rating without "/5" text
+    df_0["guestreviewsrating"]
+    .astype(str)
+    .str.split(" /")
+    .str[0]
+    .str.strip()
+)
+
+print (df_0) #checking if everything works
+print(df_0["guestreviewsrating"].value_counts()) #checking updates in exact column
+
+for col in df_0.columns: 
+    print(f"{col}:{df_0[col].dtype}") #checking the type of columns
+ 
+print(df_0["center1distance"].dtype) # noticing that center1distance and center2distance have object type
+
+df_0[miles_to_clean] = df_0[miles_to_clean].astype('Float64') #converting to float64 type
+
+print(df_0['center1distance'].isna().sum()) #checking missing values, if any
+
+print(df_0["center1distance"].dtype) #checking converting has been done succesfully
+print(df_0["center2distance"].dtype) #checking converting has been done succesfully
+
 
