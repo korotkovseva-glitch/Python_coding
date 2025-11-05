@@ -56,4 +56,20 @@ print(summary_stat)
 
 # Graphs
 
+import matplotlib.pyplot as plt
+
+df_0["starrating"].unique()
+distance=list(df_0[df_0.starrating==3]["center1distance"])
+price=df_0[df_0.starrating==3]["price"].tolist()
+
+fig=plt.figure(figsize=(10,6))
+plt.hist(df_0[])
+
+#ax = fig.add_axes([0,0,1,1])
+#ax.plot(distance,price,label="3 Stars hotels")
+#ax.set_title("The price per night depending on distance for 3 stars hotels in Vienna")
+#plt.legend(loc="upper left")
+#plt.show()
+
+
 
