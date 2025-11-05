@@ -1,4 +1,4 @@
-### Assigment coding for ecnomists, vienna hotels data set###
+### Assigment coding for ecnomists, vienna hotels data set. Here was used a raw data set of Vienna hotels for filtering purposes to recevie a clean file.###
 
 print ("Hello, world!") # checking that python works correctly
 
@@ -85,5 +85,28 @@ print(df_0['center1distance'].isna().sum()) #checking missing values, if any
 
 print(df_0["center1distance"].dtype) #checking converting has been done succesfully
 print(df_0["center2distance"].dtype) #checking converting has been done succesfully
+
+filt_coll = [ #filtering columns, it will be saved only important ones
+    "rating_reviewcount",
+    "center1distance",
+    "center1label",
+    "center2distance",
+    "center2label",
+    "neighbourhood",
+    "price",
+    "price_night",
+    "accommodationtype",
+    "guestreviewsrating",
+    "hotel_id",
+]
+
+df_clean=df_0[filt_coll].copy() #saving filtering results
+print (df_clean)
+
+df_clean.to_csv("C:/Users/korot/Desktop/CEU/Coding/Assignment/clean/hotelbookingdata-vienna_clean.csv",index=False)
+
+
+
+
 
 
