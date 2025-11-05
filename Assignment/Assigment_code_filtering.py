@@ -94,7 +94,7 @@ filt_coll = [ #filtering columns, it will be saved only important ones
     "center2label",
     "neighbourhood",
     "price",
-    "price_night",
+    "starrating",
     "accommodationtype",
     "guestreviewsrating",
     "hotel_id",
@@ -103,7 +103,7 @@ filt_coll = [ #filtering columns, it will be saved only important ones
 df_clean=df_0[filt_coll].copy() #saving filtering results
 print (df_clean)
 
-df_clean.to_csv("C:/Users/korot/Desktop/CEU/Coding/Assignment/clean/hotelbookingdata-vienna_clean.csv",index=False)
+df_clean.to_csv("C:/Users/korot/Desktop/CEU/Coding/Assignment/clean/hotelbookingdata-vienna_clean_1.csv",index=False)
 
 
 
