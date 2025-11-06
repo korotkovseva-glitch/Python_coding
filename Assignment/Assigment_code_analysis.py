@@ -66,15 +66,15 @@ price=df_0[df_0.starrating==3]["price"].tolist()
 
 plt.figure(figsize=(10,6)) 
 plt.hist(distance,bins=20, color="r",edgecolor="black")
-plt.title("Distribution of hotels by distance from center")
+plt.title("Distribution of 3 star hotels by distance from center")
 plt.xlabel("Distance from center (miles)")
 plt.ylabel("Number of hotels")
 plt.show()
 
 plt.figure(figsize=(10,6)) 
 plt.hist(price,bins=20, color="r",edgecolor="black")
-plt.title("Distribution of hotels by distance from center")
-plt.xlabel("Distance from center (miles)")
+plt.title("Distribution of 3 star hotels by price")
+plt.xlabel("price, EUR per night")
 plt.ylabel("Number of hotels")
 plt.show()
 
@@ -96,5 +96,3 @@ plt.ylabel("Price (EUR)")
 plt.legend()
 plt.tight_layout()
 plt.show()
-
-
