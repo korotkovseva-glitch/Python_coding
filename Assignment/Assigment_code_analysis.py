@@ -54,22 +54,47 @@ print(summary_stat)
 #                   min      2.2    3.9    3.5
 #                   max      4.5    4.5    4.8
 
+
 # Graphs
 
 import matplotlib.pyplot as plt
 
-df_0["starrating"].unique()
 distance=list(df_0[df_0.starrating==3]["center1distance"])
 price=df_0[df_0.starrating==3]["price"].tolist()
 
-fig=plt.figure(figsize=(10,6))
-plt.hist(df_0[])
+# Histogram review of 3 star hotels by distance and price 
 
-#ax = fig.add_axes([0,0,1,1])
-#ax.plot(distance,price,label="3 Stars hotels")
-#ax.set_title("The price per night depending on distance for 3 stars hotels in Vienna")
-#plt.legend(loc="upper left")
-#plt.show()
+plt.figure(figsize=(10,6)) 
+plt.hist(distance,bins=20, color="r",edgecolor="black")
+plt.title("Distribution of hotels by distance from center")
+plt.xlabel("Distance from center (miles)")
+plt.ylabel("Number of hotels")
+plt.show()
 
+plt.figure(figsize=(10,6)) 
+plt.hist(price,bins=20, color="r",edgecolor="black")
+plt.title("Distribution of hotels by distance from center")
+plt.xlabel("Distance from center (miles)")
+plt.ylabel("Number of hotels")
+plt.show()
+
+# Scatter plot review of 3 star hotels by distance and price + defining correlation and regression coefficients between price and distance for 3 star hotels  
+
+x=df_0["center1distance"].astype(float).to_numpy()
+y=df_0["price"].astype(float).to_numpy()
+
+plt.figure(figsize=(10,6)) 
+plt.scatter(x,y,c=pd.cut(x,bins=10,labels=False),cmap="plasma",alpha=0.9)
+s,i=np.polyfit(x,y,1)
+corr=np.corrcoef(x,y)[0,1]
+r2=r**2
+plt.plot(x,s*x+i,color="black",linewidth=1,label=f"y ={s:.2f}x+{i:.2f}\nCorr={corr:.2f},Rsqr={r2:.2f}")
+plt.colorbar(label="Distance bin")
+plt.title("Price vs. Distance, 3 Star Hotels")
+plt.xlabel("Distance (miles)")
+plt.ylabel("Price (EUR)")
+plt.legend()
+plt.tight_layout()
+plt.show()
 
 
