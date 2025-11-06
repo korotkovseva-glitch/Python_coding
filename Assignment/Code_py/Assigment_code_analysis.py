@@ -96,4 +96,3 @@ plt.ylabel("Price (EUR)")
 plt.legend()
 plt.tight_layout()
 plt.show()
-
