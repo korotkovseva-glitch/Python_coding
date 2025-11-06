@@ -8,7 +8,7 @@ import numpy as np
 import pandas as pd
 
 # Uploading the data set from internal directory
-clean_data=pd.read_csv("C:/Users/korot/Desktop/CEU/Coding/Assignment/clean/hotelbookingdata-vienna_clean_1.csv")
+clean_data=pd.read_csv("C:/Users/korot/Desktop/CEU/Coding/Python_coding/Assignment/Clean_data/hotelbookingdata-vienna_clean.csv")
 print(clean_data.head())
 
 pd.set_option('display.max_columns', None) # to see starrating column
@@ -87,7 +87,7 @@ plt.figure(figsize=(10,6))
 plt.scatter(x,y,c=pd.cut(x,bins=10,labels=False),cmap="plasma",alpha=0.9)
 s,i=np.polyfit(x,y,1)
 corr=np.corrcoef(x,y)[0,1]
-r2=r**2
+r2=corr**2
 plt.plot(x,s*x+i,color="black",linewidth=1,label=f"y ={s:.2f}x+{i:.2f}\nCorr={corr:.2f},Rsqr={r2:.2f}")
 plt.colorbar(label="Distance bin")
 plt.title("Price vs. Distance, 3 Star Hotels")
@@ -96,3 +96,4 @@ plt.ylabel("Price (EUR)")
 plt.legend()
 plt.tight_layout()
 plt.show()
+

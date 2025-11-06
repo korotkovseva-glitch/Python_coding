@@ -8,7 +8,7 @@ import numpy as np
 import pandas as pd
 
 # Uploading the data set from internal directory
-raw_data=pd.read_csv("C:/Users/korot/Desktop/CEU/Coding/Assignment/raw/hotelbookingdata-vienna.csv")
+raw_data=pd.read_csv("C:/Users/korot/Desktop/CEU/Coding/Python_coding/Assignment/Raw_data/hotelbookingdata-vienna.csv")
 print(raw_data.head())
 
 #Downloading a raw csv. file from OSF via link (fyi, it's a permanent link, so it provided as an alternative option, commented below)
@@ -103,4 +103,4 @@ filt_coll = [ #filtering columns, it will be saved only important ones
 df_clean=df_0[filt_coll].copy() #saving filtering results
 print (df_clean)
 
-df_clean.to_csv("C:/Users/korot/Desktop/CEU/Coding/Assignment/clean/hotelbookingdata-vienna_clean_1.csv",index=False)
+df_clean.to_csv("C:/Users/korot/Desktop/CEU/Coding/Python_coding/Assignment/Clean_data/hotelbookingdata-vienna_clean.csv",index=False)

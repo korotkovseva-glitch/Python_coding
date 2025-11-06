@@ -1,0 +1,421 @@
+rating_reviewcount,center1distance,center1label,center2distance,center2label,neighbourhood,price,starrating,accommodationtype,guestreviewsrating,hotel_id
+36.0,2.7,City centre,4.4,Donauturm,17. Hernals,81,4.0,Apartment,4.4,21894
+189.0,1.7,City centre,3.8,Donauturm,17. Hernals,81,4.0,Hotel,3.9,21897
+53.0,1.4,City centre,2.5,Donauturm,Alsergrund,85,4.0,Hotel,3.7,21901
+55.0,1.7,City centre,2.5,Donauturm,Alsergrund,83,3.0,Hotel,4,21902
+33.0,1.2,City centre,2.8,Donauturm,Alsergrund,82,4.0,Hotel,3.9,21903
+25.0,0.9,City centre,3.0,Donauturm,Alsergrund,229,5.0,Apartment,4.8,21904
+57.0,0.9,City centre,2.4,Donauturm,Alsergrund,103,4.0,Hotel,3.9,21906
+161.0,1.0,City centre,2.7,Donauturm,Alsergrund,150,4.0,Hotel,4.6,21907
+50.0,0.7,City centre,2.7,Donauturm,Alsergrund,80,2.0,Hotel,3.5,21908
+,1.5,City centre,2.7,Donauturm,Alsergrund,153,3.0,Apartment,nan,21910
+203.0,1.1,City centre,2.7,Donauturm,Alsergrund,60,4.0,Hotel,4.1,21912
+251.0,0.8,City centre,2.9,Donauturm,Alsergrund,128,4.0,Hotel,4,21913
+142.0,1.0,City centre,2.3,Donauturm,Alsergrund,100,4.0,Apartment,4.5,21914
+8.0,1.2,City centre,2.3,Donauturm,Alsergrund,143,2.0,Apartment,3.7,21915
+,0.7,City centre,2.6,Donauturm,Alsergrund,106,2.5,Hotel,nan,21916
+18.0,1.7,City centre,2.6,Donauturm,Alsergrund,85,4.0,Hotel,4.1,21917
+20.0,0.9,City centre,2.8,Donauturm,Alsergrund,77,3.0,Hotel,3.7,21918
+77.0,0.8,City centre,2.8,Donauturm,Alsergrund,78,3.0,Hotel,3.9,21919
+76.0,0.9,City centre,2.8,Donauturm,Alsergrund,78,3.0,Hotel,4,21920
+,3.4,City centre,0.6,Donauturm,Donaustadt,260,3.5,Apartment,nan,21921
+5.0,3.4,City centre,0.6,Donauturm,Donaustadt,158,3.0,Apartment,4.8,21922
+77.0,4.2,City centre,1.5,Donauturm,Donaustadt,77,3.0,Hotel,3.9,21924
+193.0,3.9,City centre,1.9,Donauturm,Donaustadt,77,3.0,Hotel,2.7,21925
+94.0,3.6,City centre,1.2,Donauturm,Donaustadt,95,4.0,Hotel,4.3,21926
+1.0,3.8,City centre,1.2,Donauturm,Donaustadt,156,3.0,Apartment,3,21927
+5.0,3.5,City centre,0.8,Donauturm,Donaustadt,145,3.0,Bed and breakfast,3.5,21928
+178.0,2.9,City centre,0.6,Donauturm,Donaustadt,208,4.0,Hotel,4.1,21930
+330.0,3.4,City centre,0.9,Donauturm,Donaustadt,87,3.0,Hotel,3.7,21933
+6.0,2.3,City centre,4.9,Donauturm,Favoriten,131,2.0,Apartment,3.5,21934
+194.0,2.0,City centre,4.5,Donauturm,Favoriten,54,3.0,Hotel,3.5,21935
+9.0,2.4,City centre,5.0,Donauturm,Favoriten,139,2.0,Apartment,3,21936
+3.0,2.8,City centre,5.3,Donauturm,Favoriten,184,2.0,Apartment,3.2,21937
+1.0,2.9,City centre,5.2,Donauturm,Favoriten,127,3.0,Apartment,1,21938
+,2.5,City centre,5.1,Donauturm,Favoriten,95,3.0,Apartment,nan,21939
+441.0,1.7,City centre,4.2,Donauturm,Favoriten,99,3.5,Hotel,4.4,21940
+1122.0,1.7,City centre,4.1,Donauturm,Favoriten,75,3.5,Hotel,4.4,21941
+362.0,2.1,City centre,4.6,Donauturm,Favoriten,76,3.0,Hotel,4.4,21943
+2.0,2.5,City centre,5.1,Donauturm,Favoriten,130,2.0,Apartment,3,21945
+525.0,1.9,City centre,4.2,Donauturm,Favoriten,91,4.0,Hotel,4.5,21946
+1.0,2.4,City centre,5.0,Donauturm,Favoriten,135,2.0,Apartment,3,21947
+113.0,2.0,City centre,4.5,Donauturm,Favoriten,56,2.0,Hotel,2,21948
+71.0,2.7,City centre,5.1,Donauturm,Favoriten,27,2.0,Hostel,3.7,21949
+1.0,2.3,City centre,4.6,Donauturm,Favoriten,88,3.0,Apartment,3,21950
+22.0,2.5,City centre,4.8,Donauturm,Favoriten,133,2.0,Apartment,3.5,21951
+366.0,1.8,City centre,4.3,Donauturm,Favoriten,33,2.0,Hotel,3.4,21956
+,2.0,City centre,4.4,Donauturm,Favoriten,116,3.5,Apartment,nan,21958
+821.0,1.7,City centre,4.2,Donauturm,Favoriten,71,4.0,Hotel,4,21959
+16.0,2.7,City centre,5.3,Donauturm,Favoriten,90,3.5,Apartment,3.5,21960
+23.0,1.9,City centre,4.3,Donauturm,Favoriten,84,4.0,Apartment,4.1,21962
+38.0,2.3,City centre,4.7,Donauturm,Favoriten,63,3.0,Guest House,4.3,21963
+77.0,0.2,City centre,2.9,Donauturm,Graben,113,3.0,Hotel,4.4,21965
+27.0,0.1,City centre,2.9,Donauturm,Graben,218,4.5,Apartment,4.1,21966
+144.0,0.1,City centre,2.8,Donauturm,Graben,299,5.0,Hotel,4.5,21967
+184.0,0.3,City centre,2.6,Donauturm,Innere Stadt,156,3.0,Hotel,4.5,21968
+78.0,0.3,City centre,2.8,Donauturm,Innere Stadt,513,5.0,Hotel,4.8,21969
+319.0,0.3,City centre,2.6,Donauturm,Innere Stadt,133,4.0,Hotel,4.3,21970
+73.0,0.5,City centre,3.1,Donauturm,Innere Stadt,123,4.0,Hotel,4.1,21971
+81.0,0.3,City centre,3.0,Donauturm,Innere Stadt,219,4.0,Hotel,4.5,21972
+271.0,0.3,City centre,3.0,Donauturm,Innere Stadt,152,4.0,Hotel,4.3,21973
+211.0,0.1,City centre,2.7,Donauturm,Innere Stadt,115,4.0,Hotel,4.3,21975
+5.0,0.3,City centre,2.8,Donauturm,Innere Stadt,806,5.0,Hotel,4.5,21976
+316.0,0.2,City centre,2.6,Donauturm,Innere Stadt,138,4.0,Hotel,4.5,21977
+28.0,0.4,City centre,2.5,Donauturm,Innere Stadt,95,3.0,Apartment,3.7,21979
+336.0,0.1,City centre,2.9,Donauturm,Innere Stadt,146,4.0,Hotel,4.4,21980
+83.0,0.7,City centre,3.1,Donauturm,Innere Stadt,103,3.0,Pension,4,21981
+,0.5,City centre,3.3,Donauturm,Innere Stadt,125,3.5,Apartment,nan,21983
+88.0,0.5,City centre,2.6,Donauturm,Innere Stadt,98,3.0,Hotel,3.7,21984
+140.0,0.3,City centre,2.5,Donauturm,Innere Stadt,121,3.5,Hotel,4.5,21985
+391.0,0.2,City centre,2.6,Donauturm,Innere Stadt,149,4.0,Hotel,4,21986
+320.0,0.3,City centre,2.5,Donauturm,Innere Stadt,120,3.0,Hotel,3.9,21987
+21.0,0.4,City centre,2.9,Donauturm,Innere Stadt,157,3.0,Hotel,4.4,21988
+193.0,0.3,City centre,3.1,Donauturm,Innere Stadt,261,5.0,Hotel,4.8,21989
+75.0,0.7,City centre,3.4,Donauturm,Innere Stadt,145,3.5,Apartment,4.1,21990
+35.0,0.2,City centre,2.6,Donauturm,Innere Stadt,275,4.0,Apartment,4.3,21991
+,0.2,City centre,2.9,Donauturm,Innere Stadt,253,3.5,Apartment,nan,21992
+,0.2,City centre,2.9,Donauturm,Innere Stadt,209,4.0,Apartment,nan,21993
+505.0,0.2,City centre,2.9,Donauturm,Innere Stadt,112,4.0,Hotel,4,21995
+386.0,0.3,City centre,2.5,Donauturm,Innere Stadt,138,4.0,Hotel,4.3,21996
+109.0,0.4,City centre,2.6,Donauturm,Innere Stadt,84,3.0,Pension,4,21997
+626.0,0.3,City centre,2.9,Donauturm,Innere Stadt,199,4.5,Hotel,4.5,21998
+334.0,0.3,City centre,2.9,Donauturm,Innere Stadt,203,5.0,Hotel,4.4,21999
+,0.2,City centre,2.7,Donauturm,Innere Stadt,116,3.0,Vacation home Condo,nan,22001
+,0.2,City centre,2.7,Donauturm,Innere Stadt,107,3.5,Apartment,nan,22002
+,0.2,City centre,2.7,Donauturm,Innere Stadt,127,3.5,Apartment,nan,22003
+,0.2,City centre,2.7,Donauturm,Innere Stadt,104,3.5,Apartment,nan,22004
+11.0,0.2,City centre,2.6,Donauturm,Innere Stadt,168,3.5,Apartment,4,22005
+150.0,0.5,City centre,3.2,Donauturm,Innere Stadt,544,5.0,Hotel,4.8,22006
+531.0,0.5,City centre,3.2,Donauturm,Innere Stadt,252,5.0,Hotel,4.6,22007
+253.0,0.5,City centre,3.2,Donauturm,Innere Stadt,323,5.0,Hotel,4.5,22008
+47.0,0.3,City centre,3.1,Donauturm,Innere Stadt,158,3.0,Hotel,4.3,22009
+19.0,0.2,City centre,2.7,Donauturm,Innere Stadt,156,3.5,Apartment,4,22010
+124.0,0.2,City centre,2.6,Donauturm,Innere Stadt,218,4.0,Hotel,4.6,22011
+115.0,0.1,City centre,2.7,Donauturm,Innere Stadt,218,4.0,Hotel,4.5,22012
+110.0,0.3,City centre,2.6,Donauturm,Innere Stadt,135,3.0,Hotel,3.9,22013
+16.0,0.6,City centre,2.6,Donauturm,Innere Stadt,219,2.0,Apartment,4,22014
+467.0,0.5,City centre,3.3,Donauturm,Innere Stadt,179,4.0,Hotel,4.4,22016
+,0.5,City centre,3.3,Donauturm,Innere Stadt,511,3.5,Apartment,nan,22017
+650.0,0.7,City centre,3.5,Donauturm,Innere Stadt,157,4.0,Hotel,4.5,22018
+95.0,0.3,City centre,2.8,Donauturm,Innere Stadt,146,4.0,Hotel,4.5,22019
+564.0,0.4,City centre,2.9,Donauturm,Innere Stadt,200,5.0,Hotel,4.3,22020
+168.0,0.1,City centre,2.8,Donauturm,Innere Stadt,157,4.0,Hotel,4.1,22021
+,0.3,City centre,2.6,Donauturm,Innere Stadt,138,4.0,Apartment,nan,22022
+175.0,0.3,City centre,2.5,Donauturm,Innere Stadt,108,3.0,Hotel,3.5,22023
+,0.2,City centre,2.6,Donauturm,Innere Stadt,290,3.5,Apartment,nan,22025
+426.0,0.8,City centre,3.1,Donauturm,Innere Stadt,127,4.0,Hotel,4,22026
+1.0,0.7,City centre,3.0,Donauturm,Innere Stadt,114,3.0,Guest House,3,22027
+148.0,0.4,City centre,2.7,Donauturm,Innere Stadt,163,4.0,Hotel,4.1,22028
+163.0,0.2,City centre,2.8,Donauturm,Innere Stadt,116,4.0,Apart-hotel,4.5,22029
+493.0,0.5,City centre,3.3,Donauturm,Innere Stadt,226,5.0,Hotel,4.3,22030
+56.0,0.1,City centre,2.7,Donauturm,Innere Stadt,231,4.0,Hotel,4.4,22031
+247.0,0.4,City centre,2.6,Donauturm,Innere Stadt,116,4.0,Hotel,4.4,22032
+169.0,0.4,City centre,2.6,Donauturm,Innere Stadt,76,3.0,Guest House,3.7,22033
+1.0,0.3,City centre,2.6,Donauturm,Innere Stadt,135,3.5,Apartment,1,22034
+599.0,0.6,City centre,2.7,Donauturm,Innere Stadt,184,5.0,Hotel,4.5,22035
+258.0,0.6,City centre,2.5,Donauturm,Innere Stadt,384,5.0,Hotel,4.8,22036
+703.0,0.6,City centre,2.8,Donauturm,Innere Stadt,166,4.0,Hotel,4.3,22037
+230.0,0.5,City centre,3.1,Donauturm,Innere Stadt,187,5.0,Hotel,4.1,22038
+112.0,0.5,City centre,3.1,Donauturm,Innere Stadt,371,5.0,Hotel,4.6,22039
+278.0,0.1,City centre,2.7,Donauturm,Innere Stadt,156,4.0,Pension,4.4,22040
+,0.3,City centre,2.5,Donauturm,Innere Stadt,220,3.5,Apartment,nan,22041
+81.0,0.3,City centre,2.5,Donauturm,Innere Stadt,169,4.0,Hotel,4.5,22042
+,0.3,City centre,2.7,Donauturm,Innere Stadt,103,3.0,Apartment,nan,22043
+15.0,0.3,City centre,2.6,Donauturm,Innere Stadt,266,5.0,Apartment,4.5,22044
+203.0,0.1,City centre,2.9,Donauturm,Innere Stadt,131,3.0,Pension,3.9,22045
+150.0,0.2,City centre,2.8,Donauturm,Innere Stadt,168,4.0,Apartment,4.6,22046
+,0.2,City centre,2.6,Donauturm,Innere Stadt,101,3.0,Apartment,nan,22047
+,0.2,City centre,3.0,Donauturm,Innere Stadt,364,3.5,Apartment,nan,22049
+404.0,0.0,City centre,2.8,Donauturm,Innere Stadt,242,4.0,Hotel,4.8,22050
+404.0,0.0,City centre,2.8,Donauturm,Innere Stadt,242,4.0,Hotel,4.8,22050
+123.0,0.5,City centre,2.4,Donauturm,Innere Stadt,223,4.0,Hotel,3.5,22051
+653.0,0.3,City centre,2.7,Donauturm,Innere Stadt,149,4.0,Hotel,4.4,22052
+,0.2,City centre,2.7,Donauturm,Innere Stadt,232,3.5,Apartment,nan,22053
+388.0,0.5,City centre,2.3,Donauturm,Innere Stadt,114,4.0,Hotel,4,22054
+1.0,0.1,City centre,2.8,Donauturm,Innere Stadt,253,3.5,Apartment,2,22055
+230.0,0.3,City centre,2.6,Donauturm,Innere Stadt,163,4.0,Apart-hotel,4.4,22057
+69.0,0.4,City centre,3.1,Donauturm,Innere Stadt,116,3.0,Pension,4.1,22059
+34.0,0.2,City centre,2.9,Donauturm,Innere Stadt,139,4.0,Hotel,3.5,22061
+6.0,0.2,City centre,2.7,Donauturm,Innere Stadt,91,3.5,Apartment,3.2,22063
+102.0,1.4,City centre,3.6,Donauturm,Josefstadt,79,3.0,Hotel,3.5,22064
+65.0,1.1,City centre,3.2,Donauturm,Josefstadt,66,4.0,Pension,3.7,22065
+9.0,1.1,City centre,3.2,Donauturm,Josefstadt,100,3.0,Apartment,3,22066
+11.0,1.3,City centre,3.4,Donauturm,Josefstadt,75,2.5,Pension,3,22067
+51.0,1.2,City centre,3.3,Donauturm,Josefstadt,73,2.0,Pension,3.5,22068
+298.0,0.8,City centre,3.4,Donauturm,Josefstadt,127,5.0,Hotel,4.1,22069
+354.0,0.9,City centre,3.4,Donauturm,Josefstadt,110,3.0,Hotel,4.1,22071
+92.0,0.9,City centre,3.3,Donauturm,Josefstadt,88,3.0,Hotel,4.4,22072
+66.0,1.2,City centre,3.5,Donauturm,Josefstadt,59,3.0,Pension,3.7,22073
+,1.6,City centre,3.8,Donauturm,Josefstadt,355,4.0,Apartment,nan,22074
+128.0,1.6,City centre,3.7,Donauturm,Josefstadt,59,3.0,Hotel,3.9,22075
+530.0,0.9,City centre,3.4,Donauturm,Josefstadt,119,4.0,Hotel,4,22076
+342.0,0.9,City centre,3.4,Donauturm,Josefstadt,152,4.0,Hotel,4.3,22077
+194.0,1.0,City centre,3.4,Donauturm,Josefstadt,102,4.0,Hotel,4,22078
+1.0,1.5,City centre,3.5,Donauturm,Josefstadt,363,3.5,Apartment,5,22079
+63.0,1.1,City centre,3.4,Donauturm,Josefstadt,54,3.0,Hotel,3.2,22080
+67.0,1.1,City centre,3.3,Donauturm,Josefstadt,101,3.0,Apartment,4,22081
+84.0,0.9,City centre,3.5,Donauturm,Josefstadt,75,2.0,Hotel,4,22082
+30.0,0.9,City centre,3.5,Donauturm,Josefstadt,73,2.0,Hotel,3.9,22083
+169.0,1.0,City centre,3.4,Donauturm,Josefstadt,94,3.0,Hotel,4.1,22084
+65.0,1.1,City centre,3.3,Donauturm,Josefstadt,64,4.0,Pension,3.5,22085
+91.0,1.0,City centre,3.3,Donauturm,Josefstadt,81,3.5,Apart-hotel,3.7,22086
+1.0,1.6,City centre,4.0,Donauturm,Josefstadt,162,3.0,Apartment,4,22087
+765.0,0.9,City centre,3.5,Donauturm,Josefstadt,115,4.0,Hotel,4.5,22088
+80.0,1.2,City centre,3.8,Donauturm,Josefstadt,101,4.0,Apartment,4.4,22089
+43.0,0.9,City centre,3.2,Donauturm,Josefstadt,68,3.0,Hotel,3.7,22090
+78.0,0.4,City centre,3.2,Donauturm,Kaerntner Strasse,354,5.0,Hotel,4.5,22092
+184.0,0.2,City centre,3.0,Donauturm,Kaerntner Strasse,153,4.0,Hotel,4.1,22093
+276.0,0.2,City centre,3.0,Donauturm,Kaerntner Strasse,202,5.0,Hotel,4.3,22094
+313.0,0.3,City centre,3.1,Donauturm,Kaerntner Strasse,169,4.0,Hotel,4.1,22095
+323.0,0.5,City centre,3.3,Donauturm,Kaerntner Strasse,182,4.0,Hotel,4.5,22097
+,0.1,City centre,2.9,Donauturm,Kaerntner Strasse,193,3.0,Apartment,nan,22098
+90.0,0.2,City centre,3.0,Donauturm,Kaerntner Strasse,138,4.0,Pension,4.1,22099
+140.0,0.4,City centre,3.1,Donauturm,Kaerntner Strasse,527,5.0,Hotel,4.8,22100
+512.0,0.1,City centre,2.8,Donauturm,Kaerntner Strasse,142,4.0,Hotel,4.4,22101
+,0.4,City centre,3.1,Donauturm,Kaerntner Strasse,98,3.5,Apartment,nan,22102
+340.0,0.6,City centre,3.2,Donauturm,Landstrasse,110,4.0,Hotel,4.3,22104
+34.0,1.9,City centre,3.2,Donauturm,Landstrasse,82,3.5,Apartment,4.1,22107
+26.0,0.9,City centre,2.4,Donauturm,Landstrasse,91,3.5,Apartment,2.5,22108
+,1.6,City centre,3.0,Donauturm,Landstrasse,150,3.5,Apartment,nan,22109
+97.0,1.7,City centre,3.0,Donauturm,Landstrasse,83,3.5,Apartment,4.4,22110
+11.0,1.8,City centre,3.1,Donauturm,Landstrasse,95,4.5,Apartment,4,22111
+15.0,1.4,City centre,2.8,Donauturm,Landstrasse,131,3.0,Apartment,3.7,22112
+84.0,1.1,City centre,2.8,Donauturm,Landstrasse,162,4.0,Bed and breakfast,4.8,22113
+152.0,0.5,City centre,3.0,Donauturm,Landstrasse,177,5.0,Hotel,4.3,22114
+3.0,1.5,City centre,3.6,Donauturm,Landstrasse,122,2.0,Apartment,4,22115
+25.0,1.6,City centre,3.7,Donauturm,Landstrasse,79,3.0,Apartment,2,22116
+181.0,1.4,City centre,3.1,Donauturm,Landstrasse,82,4.0,Hotel,4,22117
+359.0,1.7,City centre,3.3,Donauturm,Landstrasse,82,4.0,Hotel,4.1,22118
+160.0,1.8,City centre,3.4,Donauturm,Landstrasse,66,3.0,Hotel,3.9,22119
+303.0,0.8,City centre,2.7,Donauturm,Landstrasse,169,4.0,Hotel,4.1,22120
+254.0,0.8,City centre,2.7,Donauturm,Landstrasse,59,3.0,Guest House,3.7,22122
+173.0,1.5,City centre,3.8,Donauturm,Landstrasse,109,4.0,Hotel,4.1,22123
+114.0,0.7,City centre,2.6,Donauturm,Landstrasse,104,3.0,Hotel,3.4,22125
+249.0,0.9,City centre,2.5,Donauturm,Landstrasse,145,3.5,Hotel,4.3,22126
+1.0,1.4,City centre,3.6,Donauturm,Landstrasse,58,3.5,Apartment,2,22127
+6.0,1.3,City centre,3.4,Donauturm,Landstrasse,107,4.0,Vacation home Condo,4.3,22129
+13.0,0.8,City centre,2.1,Donauturm,Landstrasse,85,3.0,Hotel,3.5,22130
+18.0,0.7,City centre,2.2,Donauturm,Landstrasse,184,4.0,Apartment,4.5,22131
+497.0,1.0,City centre,3.3,Donauturm,Landstrasse,137,4.5,Hotel,4.1,22132
+503.0,1.1,City centre,3.3,Donauturm,Landstrasse,116,4.5,Hotel,4.5,22134
+70.0,1.1,City centre,3.3,Donauturm,Landstrasse,157,2.0,Apartment,3.7,22135
+109.0,1.3,City centre,3.3,Donauturm,Landstrasse,110,3.0,Hotel,3.7,22136
+171.0,0.6,City centre,3.0,Donauturm,Landstrasse,134,4.0,Hotel,4.3,22138
+79.0,1.3,City centre,3.3,Donauturm,Landstrasse,79,4.0,Hotel,3.7,22140
+13.0,1.4,City centre,3.3,Donauturm,Landstrasse,143,3.0,Apartment,4.5,22141
+281.0,1.0,City centre,3.2,Donauturm,Landstrasse,132,4.0,Hotel,4.1,22142
+108.0,1.3,City centre,3.5,Donauturm,Landstrasse,68,4.0,Apartment,4,22143
+267.0,0.6,City centre,2.3,Donauturm,Leopoldstadt,128,4.0,Hotel,4.1,22144
+183.0,1.5,City centre,1.6,Donauturm,Leopoldstadt,99,3.0,Hotel,4.5,22145
+5.0,0.9,City centre,1.9,Donauturm,Leopoldstadt,149,2.0,Apartment,2.2,22148
+136.0,1.8,City centre,1.0,Donauturm,Leopoldstadt,86,4.0,Hotel,4,22149
+11.0,1.9,City centre,1.4,Donauturm,Leopoldstadt,155,3.0,Apartment,4.1,22150
+242.0,1.0,City centre,1.9,Donauturm,Leopoldstadt,63,3.0,Hotel,3.4,22152
+81.0,0.6,City centre,2.3,Donauturm,Leopoldstadt,157,2.0,Apartment,3.7,22153
+16.0,0.6,City centre,2.2,Donauturm,Leopoldstadt,134,3.5,Hotel,4,22155
+6.0,1.7,City centre,1.4,Donauturm,Leopoldstadt,141,5.0,Apartment,4.3,22156
+122.0,0.9,City centre,1.9,Donauturm,Leopoldstadt,79,3.0,Hotel,3.7,22157
+250.0,0.5,City centre,2.3,Donauturm,Leopoldstadt,138,4.0,Hotel,4,22158
+603.0,1.0,City centre,1.8,Donauturm,Leopoldstadt,113,4.0,Hotel,4.5,22159
+25.0,1.5,City centre,1.3,Donauturm,Leopoldstadt,171,3.0,Apartment,3.5,22160
+52.0,1.5,City centre,1.4,Donauturm,Leopoldstadt,56,2.0,Hotel,3.5,22161
+152.0,1.5,City centre,1.4,Donauturm,Leopoldstadt,84,3.0,Hotel,3.9,22162
+293.0,1.1,City centre,2.0,Donauturm,Leopoldstadt,72,2.0,Hotel,4,22163
+1.0,0.7,City centre,2.2,Donauturm,Leopoldstadt,587,5.0,Hotel,1,22164
+84.0,0.9,City centre,2.1,Donauturm,Leopoldstadt,68,3.0,Hotel,4,22165
+208.0,1.5,City centre,1.4,Donauturm,Leopoldstadt,102,3.5,Hotel,3.9,22166
+29.0,1.5,City centre,1.4,Donauturm,Leopoldstadt,96,3.0,Apartment,3.4,22167
+57.0,0.9,City centre,1.9,Donauturm,Leopoldstadt,81,1.0,Hotel,3.7,22168
+267.0,1.6,City centre,1.7,Donauturm,Leopoldstadt,82,3.0,Hotel,4.1,22169
+275.0,1.1,City centre,1.7,Donauturm,Leopoldstadt,66,3.0,Hotel,4,22170
+23.0,0.8,City centre,2.2,Donauturm,Leopoldstadt,87,3.0,Apartment,3.9,22171
+,0.6,City centre,2.3,Donauturm,Leopoldstadt,364,4.0,Apartment,nan,22173
+240.0,0.4,City centre,2.4,Donauturm,Leopoldstadt,240,5.0,Hotel,4.5,22175
+374.0,0.8,City centre,2.1,Donauturm,Leopoldstadt,113,3.0,Hotel,4.5,22176
+468.0,1.0,City centre,1.9,Donauturm,Leopoldstadt,106,3.0,Hotel,4.5,22177
+422.0,1.6,City centre,1.2,Donauturm,Leopoldstadt,89,3.0,Hotel,4.1,22179
+307.0,0.9,City centre,2.2,Donauturm,Leopoldstadt,61,2.0,Hotel,4,22180
+2.0,0.8,City centre,2.3,Donauturm,Leopoldstadt,92,3.5,Apartment,4.5,22181
+527.0,0.8,City centre,2.0,Donauturm,Leopoldstadt,106,4.0,Hotel,4.1,22182
+637.0,0.8,City centre,2.0,Donauturm,Leopoldstadt,100,4.0,Hotel,4,22183
+461.0,0.7,City centre,2.2,Donauturm,Leopoldstadt,75,3.0,Hotel,4.1,22184
+3.0,0.8,City centre,2.2,Donauturm,Leopoldstadt,84,3.0,Hotel,2.2,22185
+3.0,0.8,City centre,2.2,Donauturm,Leopoldstadt,84,3.0,Hotel,2.2,22185
+104.0,0.5,City centre,2.3,Donauturm,Leopoldstadt,151,4.0,Hotel,4.6,22187
+90.0,0.9,City centre,1.9,Donauturm,Leopoldstadt,87,3.0,Hotel,3.5,22188
+75.0,0.5,City centre,2.3,Donauturm,Leopoldstadt,117,4.0,Hotel,4.4,22189
+139.0,1.9,City centre,1.9,Donauturm,Leopoldstadt,120,4.0,Hotel,4.5,22190
+,0.8,City centre,2.1,Donauturm,Leopoldstadt,132,3.5,Apartment,nan,22191
+41.0,0.9,City centre,1.9,Donauturm,Leopoldstadt,68,2.5,Hotel,3.9,22192
+122.0,1.9,City centre,4.7,Donauturm,Margareten,383,3.0,Hotel,4,22193
+6.0,1.6,City centre,4.4,Donauturm,Margareten,160,4.0,Apartment,4.3,22194
+,2.0,City centre,4.8,Donauturm,Margareten,135,2.0,Apartment,nan,22195
+137.0,2.0,City centre,4.8,Donauturm,Margareten,111,4.5,Hotel,4.5,22196
+144.0,1.5,City centre,4.3,Donauturm,Margareten,174,4.0,Hotel,4.3,22198
+80.0,2.0,City centre,4.7,Donauturm,Margareten,63,3.0,Hotel,3.5,22199
+11.0,1.4,City centre,4.2,Donauturm,Margareten,73,3.0,Apartment,4.3,22200
+58.0,1.5,City centre,4.3,Donauturm,Margareten,100,3.5,Hotel,4.5,22201
+,1.7,City centre,4.4,Donauturm,Margareten,162,3.5,Apartment,nan,22202
+303.0,1.4,City centre,4.2,Donauturm,Margareten,86,4.0,Hotel,3.9,22203
+,1.9,City centre,4.7,Donauturm,Margareten,103,3.0,Guest House,nan,22204
+82.0,1.8,City centre,4.5,Donauturm,Margareten,67,3.0,Hotel,4,22205
+248.0,1.3,City centre,4.1,Donauturm,Margareten,129,4.0,Hotel,4.1,22206
+151.0,1.9,City centre,4.6,Donauturm,Margareten,80,3.0,Apartment,4.1,22208
+7.0,1.9,City centre,4.7,Donauturm,Margareten,131,2.0,Apartment,3.2,22209
+2.0,1.6,City centre,4.3,Donauturm,Margareten,150,3.5,Apartment,5,22210
+3.0,1.1,City centre,3.9,Donauturm,Mariahilf,159,3.0,Apartment,4.6,22211
+85.0,1.3,City centre,4.1,Donauturm,Mariahilf,86,3.0,Hotel,4,22212
+3.0,0.9,City centre,3.6,Donauturm,Mariahilf,96,2.0,Hotel,3.7,22213
+258.0,0.7,City centre,3.4,Donauturm,Mariahilf,131,4.0,Hotel,4.1,22214
+13.0,2.0,City centre,4.7,Donauturm,Mariahilf,103,4.0,Apartment,4.1,22215
+95.0,1.0,City centre,3.8,Donauturm,Mariahilf,85,2.0,Hotel,4,22217
+44.0,1.4,City centre,4.2,Donauturm,Mariahilf,80,3.0,Hotel,3.9,22218
+125.0,1.1,City centre,3.9,Donauturm,Mariahilf,93,4.0,Hotel,4,22219
+5.0,1.8,City centre,4.6,Donauturm,Mariahilf,81,3.5,Apartment,4.5,22221
+161.0,1.9,City centre,4.6,Donauturm,Mariahilf,77,3.0,Hotel,4,22222
+210.0,0.8,City centre,3.6,Donauturm,Mariahilf,140,4.0,Hotel,4.8,22223
+264.0,1.0,City centre,3.8,Donauturm,Mariahilf,99,4.0,Hotel,4,22224
+49.0,1.1,City centre,3.9,Donauturm,Mariahilf,75,4.0,Pension,4.1,22225
+162.0,1.4,City centre,4.1,Donauturm,Mariahilf,105,4.0,Hotel,4.4,22226
+581.0,1.7,City centre,4.4,Donauturm,Mariahilf,100,3.5,Hotel,4.5,22227
+55.0,1.0,City centre,3.8,Donauturm,Mariahilf,89,3.0,Pension,3.7,22228
+39.0,1.1,City centre,3.9,Donauturm,Mariahilf,82,3.0,Hotel,3.9,22229
+484.0,1.8,City centre,4.5,Donauturm,Mariahilf,82,4.0,Hotel,3.9,22230
+,1.8,City centre,4.5,Donauturm,Mariahilf,88,3.0,Apartment,nan,22231
+,1.6,City centre,4.4,Donauturm,Mariahilf,150,3.0,Apartment,nan,22233
+10.0,1.6,City centre,4.4,Donauturm,Mariahilf,134,2.0,Apartment,3.7,22234
+45.0,1.9,City centre,4.7,Donauturm,Mariahilf,87,4.0,Hotel,3.5,22235
+98.0,1.6,City centre,4.3,Donauturm,Mariahilf,100,4.0,Hotel,3.7,22236
+239.0,1.6,City centre,4.3,Donauturm,Mariahilf,84,4.0,Hotel,4.3,22237
+170.0,0.9,City centre,3.7,Donauturm,Mariahilf,52,2.0,Hotel,3.7,22238
+100.0,0.8,City centre,3.5,Donauturm,Neubau,98,4.0,Hotel,3.7,22239
+310.0,0.7,City centre,3.4,Donauturm,Neubau,333,5.0,Hotel,4.9,22240
+305.0,1.8,City centre,4.4,Donauturm,Neubau,99,3.0,Hotel,4.1,22241
+105.0,1.5,City centre,4.1,Donauturm,Neubau,77,3.0,Bed and breakfast,4,22243
+6.0,1.6,City centre,4.3,Donauturm,Neubau,160,3.5,Apartment,4.6,22244
+1.0,1.6,City centre,4.3,Donauturm,Neubau,160,3.5,Apartment,5,22245
+141.0,1.6,City centre,4.2,Donauturm,Neubau,76,3.0,Hotel,3.5,22246
+14.0,1.6,City centre,4.1,Donauturm,Neubau,89,3.0,Bed and breakfast,4.4,22247
+6.0,0.8,City centre,3.6,Donauturm,Neubau,113,3.0,Hotel,3.7,22248
+328.0,0.9,City centre,3.6,Donauturm,Neubau,110,4.0,Hotel,4.4,22249
+123.0,1.0,City centre,3.7,Donauturm,Neubau,184,4.0,Hotel,4.6,22250
+181.0,1.7,City centre,4.2,Donauturm,Neubau,33,2.0,Hotel,3.2,22251
+77.0,1.0,City centre,3.8,Donauturm,Neubau,1012,3.0,Hotel,4.3,22252
+308.0,1.7,City centre,4.4,Donauturm,Neubau,99,4.0,Hotel,4.1,22253
+54.0,0.8,City centre,3.5,Donauturm,Neubau,122,3.0,Hotel,3.9,22254
+544.0,1.7,City centre,4.3,Donauturm,Neubau,122,4.0,Hotel,4.3,22255
+359.0,1.7,City centre,4.3,Donauturm,Neubau,105,4.0,Hotel,4,22256
+3.0,1.7,City centre,4.2,Donauturm,Neubau,98,4.0,Apartment,5,22257
+,1.4,City centre,4.1,Donauturm,Neubau,92,3.5,Apartment,nan,22258
+98.0,1.4,City centre,4.0,Donauturm,Neubau,109,4.0,Hotel,4,22259
+54.0,1.2,City centre,3.9,Donauturm,Neubau,105,3.0,Hotel,4.1,22260
+22.0,2.0,City centre,4.4,Donauturm,Ottakring,133,2.0,Apartment,3.2,22265
+4.0,2.3,City centre,4.6,Donauturm,Ottakring,133,2.5,Apartment,4.3,22266
+69.0,3.1,City centre,5.2,Donauturm,Ottakring,52,3.0,Hotel,3.5,22268
+17.0,1.8,City centre,4.1,Donauturm,Ottakring,134,2.0,Apartment,3.7,22269
+83.0,4.1,City centre,6.0,Donauturm,Ottakring,80,4.0,Hotel,4,22271
+36.0,2.9,City centre,5.3,Donauturm,Rudolfsheim-Funfhaus,91,2.0,Hotel,4,22272
+,2.6,City centre,5.2,Donauturm,Rudolfsheim-Funfhaus,129,4.0,Apartment,nan,22273
+153.0,1.9,City centre,4.6,Donauturm,Rudolfsheim-Funfhaus,47,2.0,Hostel,3.7,22274
+136.0,1.8,City centre,4.4,Donauturm,Rudolfsheim-Funfhaus,70,4.0,Hotel,3.9,22275
+17.0,2.3,City centre,4.9,Donauturm,Rudolfsheim-Funfhaus,88,3.5,Apartment,2.2,22276
+156.0,1.9,City centre,4.5,Donauturm,Rudolfsheim-Funfhaus,136,3.0,Hotel,4.5,22277
+81.0,2.1,City centre,4.8,Donauturm,Rudolfsheim-Funfhaus,80,3.0,Hotel,4.1,22279
+40.0,2.3,City centre,4.9,Donauturm,Rudolfsheim-Funfhaus,131,2.0,Apartment,3.9,22280
+54.0,2.4,City centre,4.9,Donauturm,Rudolfsheim-Funfhaus,81,3.0,Hotel,4.1,22281
+13.0,2.5,City centre,5.1,Donauturm,Rudolfsheim-Funfhaus,133,2.0,Apartment,3.7,22284
+225.0,3.6,City centre,6.1,Donauturm,Rudolfsheim-Funfhaus,66,4.0,Hotel,3.7,22285
+144.0,2.8,City centre,5.5,Donauturm,Rudolfsheim-Funfhaus,77,3.0,Hotel,4,22286
+2.0,1.8,City centre,4.4,Donauturm,Rudolfsheim-Funfhaus,121,3.0,Apartment,4.5,22287
+525.0,2.1,City centre,4.8,Donauturm,Rudolfsheim-Funfhaus,69,4.0,Hotel,3.7,22288
+113.0,2.1,City centre,4.8,Donauturm,Rudolfsheim-Funfhaus,83,3.0,Hotel,4.1,22289
+10.0,1.9,City centre,4.6,Donauturm,Rudolfsheim-Funfhaus,53,2.0,Hostel,4.1,22290
+2.0,2.7,City centre,5.3,Donauturm,Rudolfsheim-Funfhaus,133,3.5,Apartment,4,22291
+78.0,1.8,City centre,4.5,Donauturm,Rudolfsheim-Funfhaus,77,4.0,Hotel,3.9,22293
+69.0,2.0,City centre,4.7,Donauturm,Rudolfsheim-Funfhaus,48,2.0,Hostel,4.5,22294
+314.0,2.9,City centre,5.5,Donauturm,Rudolfsheim-Funfhaus,142,4.5,Hotel,4.3,22295
+134.0,1.7,City centre,4.3,Donauturm,Rudolfsheim-Funfhaus,121,4.0,Hotel,3.9,22296
+38.0,3.6,City centre,6.2,Donauturm,Schonbrunn,68,3.0,Hotel,3.5,22299
+65.0,2.0,City centre,4.8,Donauturm,Schonbrunn,63,3.0,Hotel,3.7,22300
+92.0,2.1,City centre,4.9,Donauturm,Schonbrunn,101,3.0,Hotel,4.5,22301
+100.0,2.6,City centre,5.4,Donauturm,Schonbrunn,75,4.0,Hotel,3.7,22302
+910.0,3.6,City centre,6.2,Donauturm,Schonbrunn,156,4.0,Hotel,4.3,22303
+79.0,3.7,City centre,6.3,Donauturm,Schonbrunn,56,3.0,Hotel,3.5,22304
+1541.0,2.4,City centre,5.2,Donauturm,Schonbrunn,82,3.5,Hotel,4.5,22306
+183.0,2.6,City centre,5.4,Donauturm,Schonbrunn,82,4.0,Hotel,4.4,22307
+30.0,4.1,City centre,6.8,Donauturm,Schonbrunn,106,3.0,Hotel,3.7,22309
+24.0,3.1,City centre,5.9,Donauturm,Schonbrunn,85,3.0,Hotel,2.7,22310
+18.0,2.6,City centre,5.4,Donauturm,Schonbrunn,83,3.5,Hotel,4.5,22311
+140.0,2.9,City centre,5.6,Donauturm,Schonbrunn,92,4.0,Hotel,4.1,22312
+14.0,2.3,City centre,5.1,Donauturm,Schonbrunn,169,3.0,Apartment,4.3,22314
+8.0,2.7,City centre,5.4,Donauturm,Schonbrunn,77,3.0,Guest House,3.5,22315
+,4.3,City centre,6.7,Donauturm,Vienna,105,3.5,Apartment,nan,22324
+2.0,2.6,City centre,5.4,Donauturm,Vienna,130,2.0,Apartment,4,22325
+16.0,4.7,City centre,7.0,Donauturm,Vienna,110,3.0,Pension,4.3,22326
+124.0,2.0,City centre,3.4,Donauturm,Vienna,117,4.0,Hotel,4,22328
+9.0,5.4,City centre,8.1,Donauturm,Vienna,106,4.0,Pension,4.1,22330
+33.0,3.9,City centre,6.4,Donauturm,Vienna,66,3.0,Hotel,3.7,22331
+16.0,3.5,City centre,1.3,Donauturm,Vienna,266,5.0,Apartment,4.6,22332
+57.0,2.4,City centre,3.7,Donauturm,Vienna,58,2.0,Hotel,3.5,22333
+21.0,3.7,City centre,6.4,Donauturm,Vienna,81,3.5,Hotel,4.1,22334
+160.0,3.5,City centre,6.2,Donauturm,Vienna,109,4.0,Hotel,4,22335
+985.0,2.3,City centre,1.9,Donauturm,Vienna,114,4.5,Hotel,4.3,22336
+69.0,2.3,City centre,1.1,Donauturm,Vienna,125,3.5,Apart-hotel,4.4,22337
+51.0,1.7,City centre,1.8,Donauturm,Vienna,69,3.0,Guest House,3.7,22338
+,2.6,City centre,2.3,Donauturm,Vienna,69,3.0,Apartment,nan,22339
+72.0,3.1,City centre,5.9,Donauturm,Vienna,97,4.0,Hotel,4,22340
+65.0,4.8,City centre,7.3,Donauturm,Vienna,74,4.0,Hotel,3.9,22341
+147.0,3.7,City centre,6.4,Donauturm,Vienna,69,4.0,Hotel,3.7,22342
+45.0,3.9,City centre,6.6,Donauturm,Vienna,83,4.0,Hotel,4,22343
+50.0,3.9,City centre,6.6,Donauturm,Vienna,50,3.0,Hotel,3.9,22344
+27.0,4.7,City centre,7.4,Donauturm,Vienna,130,2.0,Apartment,3.2,22345
+2.0,3.7,City centre,6.2,Donauturm,Vienna,134,3.0,Apartment,3,22346
+12.0,6.9,City centre,9.6,Donauturm,Vienna,134,3.0,Apartment,4,22347
+26.0,3.7,City centre,5.0,Donauturm,Vienna,77,3.0,Hotel,4,22348
+28.0,5.3,City centre,7.6,Donauturm,Vienna,102,3.0,Hotel,4,22349
+30.0,2.5,City centre,5.2,Donauturm,Vienna,56,3.5,Apartment,3.2,22350
+1.0,2.7,City centre,5.4,Donauturm,Vienna,185,3.0,Apartment,3,22351
+12.0,6.6,City centre,9.4,Donauturm,Vienna,130,3.0,Hotel,4.4,22353
+171.0,3.2,City centre,4.5,Donauturm,Vienna,78,3.0,Hotel,4.3,22354
+34.0,3.3,City centre,4.6,Donauturm,Vienna,76,3.0,Hotel,3.7,22355
+69.0,4.5,City centre,5.2,Donauturm,Vienna,68,4.0,Hotel,4,22356
+84.0,2.7,City centre,3.7,Donauturm,Vienna,116,4.0,Hotel,4,22358
+212.0,2.2,City centre,3.8,Donauturm,Vienna,172,4.0,Hotel,4.1,22359
+15.0,5.2,City centre,7.6,Donauturm,Vienna,80,2.0,Hostel,3.2,22361
+12.0,2.4,City centre,3.9,Donauturm,Vienna,87,3.0,Hotel,4,22362
+89.0,4.6,City centre,7.4,Donauturm,Vienna,90,3.0,Hotel,3,22363
+74.0,2.7,City centre,4.2,Donauturm,Vienna,100,3.5,Hotel,4.4,22364
+3.0,3.1,City centre,4.6,Donauturm,Vienna,173,2.0,Apartment,3.2,22365
+44.0,2.5,City centre,4.1,Donauturm,Vienna,92,2.0,Pension,3.2,22366
+6.0,2.6,City centre,5.3,Donauturm,Vienna,133,2.0,Apartment,3.7,22369
+3.0,5.1,City centre,7.7,Donauturm,Vienna,134,3.5,Apartment,3.2,22370
+2.0,5.2,City centre,7.8,Donauturm,Vienna,209,3.0,Apartment,4,22371
+44.0,1.6,City centre,1.8,Donauturm,Vienna,66,3.0,Apartment,4.4,22372
+35.0,1.4,City centre,2.2,Donauturm,Vienna,114,4.0,Apartment,4.9,22373
+186.0,1.9,City centre,2.7,Donauturm,Wahring,84,3.0,Hotel,4.4,22380
+27.0,1.8,City centre,3.2,Donauturm,Wahring,124,2.0,Apartment,3.5,22381
+45.0,2.1,City centre,3.0,Donauturm,Wahring,185,4.0,Hotel,4.4,22382
+168.0,3.0,City centre,3.2,Donauturm,Wahring,85,4.0,Hotel,4,22384
+1.0,1.9,City centre,3.1,Donauturm,Wahring,133,2.0,Apartment,4,22385
+77.0,1.6,City centre,4.0,Donauturm,Wieden,110,3.5,Hotel,4.5,22386
+72.0,1.6,City centre,4.0,Donauturm,Wieden,86,3.0,Hotel,4.3,22387
+158.0,1.0,City centre,3.6,Donauturm,Wieden,118,4.0,Hotel,4.1,22388
+15.0,0.9,City centre,3.6,Donauturm,Wieden,126,3.5,Hotel,4.5,22389
+291.0,1.3,City centre,3.9,Donauturm,Wieden,92,3.0,Hotel,4.3,22390
+317.0,0.8,City centre,3.5,Donauturm,Wieden,197,4.0,Hotel,4.8,22391
+193.0,1.3,City centre,4.0,Donauturm,Wieden,39,2.5,Guest House,3.5,22393
+280.0,1.2,City centre,3.9,Donauturm,Wieden,135,4.0,Hotel,4.5,22394
+47.0,1.2,City centre,3.7,Donauturm,Wieden,125,4.0,Hotel,4.4,22395
+7.0,1.0,City centre,3.8,Donauturm,Wieden,67,2.0,Hostel,3.4,22396
+125.0,0.8,City centre,3.5,Donauturm,Wieden,134,4.0,Hotel,4.5,22397
+34.0,0.9,City centre,3.7,Donauturm,Wieden,91,3.0,Hotel,3.5,22398
+112.0,0.8,City centre,3.6,Donauturm,Wieden,110,3.0,Hotel,3.9,22399
+1.0,0.9,City centre,3.6,Donauturm,Wieden,84,3.5,Apartment,5,22400
+77.0,1.2,City centre,3.7,Donauturm,Wieden,100,3.0,Hotel,4,22401
+572.0,1.5,City centre,3.9,Donauturm,Wieden,95,4.0,Hotel,4.1,22402
+53.0,1.5,City centre,4.0,Donauturm,Wieden,73,3.0,Hotel,3.4,22403
+2.0,1.5,City centre,3.8,Donauturm,Wieden,109,3.0,Apartment,5,22404
+145.0,0.8,City centre,3.6,Donauturm,Wieden,185,5.0,Hotel,4.3,22406
+112.0,1.0,City centre,3.7,Donauturm,Wieden,100,4.0,Hotel,4.4,22407
+169.0,1.4,City centre,4.1,Donauturm,Wieden,58,3.0,Hotel,3.2,22408
+80.0,0.7,City centre,3.5,Donauturm,Wieden,110,3.5,Apartment,4,22409
