@@ -1,0 +1,113 @@
+{\rtf1\ansi\deff0 {\fonttbl{\f0\fnil Garamond;}}
+{\info {\author .}{\company .}{\title .}}
+\deflang1033\plain\fs20
+{\footer\pard\qc\plain\f0\fs20\chpgn\par}
+{
+{\fs20\b\qc\line Summary statistics table depending on distance from city centre by hotel star }{\par}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx1100
+\fs20\pard\intbl\qr {starrating }\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx2060
+\fs20\pard\intbl\qr {{ N}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx3020
+\fs20\pard\intbl\qr {{ Mean}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx3980
+\fs20\pard\intbl\qr {{ SD}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx4940
+\fs20\pard\intbl\qr {{ Min}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx5900
+\fs20\pard\intbl\qr {{ Max}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx6860
+\fs20\pard\intbl\qr {{ p5}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx7820
+\fs20\pard\intbl\qr {{ p10}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx8780
+\fs20\pard\intbl\qr {{ Median}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx9740
+\fs20\pard\intbl\qr {{ p90}}\cell
+\clbrdrt\brdrw10\brdrs \clbrdrb\brdrw25\brdrs  \cellx10700
+\fs20\pard\intbl\qr {{ p95}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\cellx1100
+\fs20\pard\intbl\ql {{ 3}}\cell
+\cellx2060
+\qr {{81}}\cell
+\cellx3020
+\qr {{2.78}}\cell
+\cellx3980
+\qr {{1.87}}\cell
+\cellx4940
+\qr {{.3}}\cell
+\cellx5900
+\qr {{8.5}}\cell
+\cellx6860
+\qr {{.5}}\cell
+\cellx7820
+\qr {{1.1}}\cell
+\cellx8780
+\qr {{2.3}}\cell
+\cellx9740
+\qr {{6}}\cell
+\cellx10700
+\qr {{6.3}}\cell
+\row}
+
+
+{\trowd\trgaph108\trleft-108
+\cellx1100
+\fs20\pard\intbl\ql {{ 4}}\cell
+\cellx2060
+\qr {{112}}\cell
+\cellx3020
+\qr {{2.09}}\cell
+\cellx3980
+\qr {{1.72}}\cell
+\cellx4940
+\qr {{0}}\cell
+\cellx5900
+\qr {{7.7}}\cell
+\cellx6860
+\qr {{.2}}\cell
+\cellx7820
+\qr {{.3}}\cell
+\cellx8780
+\qr {{1.6}}\cell
+\cellx9740
+\qr {{4.7}}\cell
+\cellx10700
+\qr {{5.8}}\cell
+\row}
+
+
+{\trowd\trgaph108\trleft-108
+\cellx1100
+\fs20\pard\intbl\ql {{ 5}}\cell
+\cellx2060
+\qr {{21}}\cell
+\cellx3020
+\qr {{.75}}\cell
+\cellx3980
+\qr {{0.29}}\cell
+\cellx4940
+\qr {{.2}}\cell
+\cellx5900
+\qr {{1.3}}\cell
+\cellx6860
+\qr {{.3}}\cell
+\cellx7820
+\qr {{.5}}\cell
+\cellx8780
+\qr {{.8}}\cell
+\cellx9740
+\qr {{1.1}}\cell
+\cellx10700
+\qr {{1.3}}\cell
+\row}
+{\trowd\trgaph108\trleft-108
+\clbrdrt\brdrw15\brdrs\cellx10700{}\cell
+\row}
+
+
+\writepositionforappend
+}}
